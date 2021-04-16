@@ -273,11 +273,11 @@
                 }
             });
 
-        //Google Maps
+  /*      //Google Maps
         $("#map").googleMap();
         $("#map").addMarker({
-            address: "Pokhara, Kaski, Nepal" // Your Address
-        });
+            address: "Pokhara, Kaski, Nepal"
+        });*/
     });
 
 })(jQuery);
