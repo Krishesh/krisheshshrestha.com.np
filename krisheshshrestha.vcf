@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Krishesh Shrestha
+N:Shrestha;Krishesh;;;
+item1.EMAIL;TYPE=INTERNET:shrestha.krishesh@gmail.com
+item1.X-ABLabel:GMAIL
+EMAIL;TYPE=INTERNET;TYPE=WORK:freelancer@krisheshshrestha.com.np
+item2.TEL:+977  9804185934
+item2.X-ABLabel:NEPAL
+item3.TEL:+971 52 652 3922
+item3.X-ABLabel:DUBAI
+BDAY:19980402
+item4.URL:www.krisheshshrestha.com.np
+item4.X-ABLabel:PROFILE
+PHOTO:https://lh3.googleusercontent.com/contacts/AKUYANQemrLvU6xaBmQ7Qn9H8l
+ dE01LWZ-HNoeF361d1UR08cqdkq0n2
+CATEGORIES:myContacts
+END:VCARD
